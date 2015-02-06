@@ -1,2 +1,2 @@
 # CompLeo
-New internet magasin
+New internet shop
