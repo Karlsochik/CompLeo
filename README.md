@@ -1,2 +1,2 @@
 # CompLeo
-New inernet magasin
+New internet magasin
