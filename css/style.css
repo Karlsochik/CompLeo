@@ -45,43 +45,56 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-.header-logo-container .active{
+.header-logo-container .active {
 	background-color: #1f800f;
 	margin-top: 6%;
 	margin-left: 3%;
 	color: #aaa;
 }
-.header-logo-container{
-	margin-left:7%;
+.header-logo-container {
+	margin-left: 3%;
 	margin-right: 80%;
 }
-.header-logo-container nav a{
+.header-logo-container nav a {
    	font-size: 100%;
 	padding: 7px 7px;
 	margin-left: 2%;
 	background: white;
 	color: #aaa;
-	box-shadow: 0 0 10px rgba(0,0,0,1);
-	} 
-.logo{
+} 
+.logo {
 	width: 100%;
 	margin-left: 20%;
 }
-.main-nav{
-	margin-left: 30%;
-	margin-top: -9%;
-	position:absolute; ;
+.main-nav {
+	margin-left: 35%;
+	margin-top: -7%;
+	margin-right: 15%;
+	position: absolute;
 }
-.main-nav li{
+.main-nav li {
     padding: 4px; 
     display: inline; 
     margin-right: 5px;   
     padding: 3px;  
-   }
-.searvh-field-container{
-	margin-left: 60%;
-	margin-top: -2%;
 }
-.searvh-field{
-margin-left: 40%;	
+.search-field-container {
+	margin-left: 15%;
+	margin-top: -3%;
+	margin-right: 30%;
+}
+.searvh-field {
+	margin-top: -5%;
+	margin-left: 45%;
+	padding-left: 14%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	padding-top: 3%;
+}
+button {
+	margin-top: -1.8%;
+	background: #080;
+	position: absolute;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
