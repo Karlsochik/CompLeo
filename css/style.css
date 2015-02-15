@@ -33,8 +33,8 @@ body {
 ol, ul {
 	list-style: none;
 }
-/*blockquote, q {
-	quotes: none;*/
+blockquote, q {
+	quotes: none;
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -63,19 +63,19 @@ table {
 	color: #aaa;
 } 
 .logo {
-	width: 100%;
+	width: 110%;
 	margin-left: 20%;
 }
 .main-nav {
-	margin-left: 35%;
-	margin-top: -7%;
+	margin-left: 22%;
+	margin-top: -8%;
 	margin-right: 15%;
 	position: absolute;
 }
 .main-nav li {
     padding: 4px; 
     display: inline; 
-    margin-right: 5px;   
+    margin-right: 20px;   
     padding: 3px;  
 }
 .search-field-container {
@@ -84,17 +84,45 @@ table {
 	margin-right: 30%;
 }
 .searvh-field {
-	margin-top: -5%;
-	margin-left: 45%;
-	padding-left: 14%;
-	padding-right: 1%;
-	padding-bottom: 1%;
+	width: 57%;
+	margin-top: -6%;
+	margin-left: 25%;
 	padding-top: 3%;
 }
 button {
-	margin-top: -1.8%;
+	width: 5%;
+	margin-top: -2%;
 	background: #080;
 	position: absolute;
-	padding-top: 1%;
-	padding-bottom: 1%;
+	padding-bottom: 1.6%;
+}
+.toolsbox {
+	margin-left: 75%;
+	margin-top: -8.4%;
+	margin-right: 2%;
+	padding-right: 4px;
+}
+.toolsbox a {
+	padding-right: 10%;
+	margin-right: -8%;
+}
+.shopping-cart {
+	margin-top: 4%;
+	background: #ffb441;
+	padding-top:4%;
+	padding-bottom: 20%;
+	margin-right: -14%;
+}
+.product-nav {
+	background: #ff7518;
+	width: 102.8%;
+	margin-left: -2%;
+	margin-top: 3%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.product-nav li {
+	display: inline;
+	padding-right: 2%;
+	margin-left: 2%;
 }
