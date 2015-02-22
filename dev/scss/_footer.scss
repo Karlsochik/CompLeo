@@ -1,0 +1,11 @@
+.links-cloud {
+	background: #2c2c2c;
+}
+
+.links-cloud {
+	& a {
+		display: block;
+		text-decoration: none;
+		color: #dcdcdc;
+	}
+}

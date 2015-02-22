@@ -1,0 +1,62 @@
+.main-header {
+	overflow: hidden;
+}
+
+.header-logo-cnt {
+	float: left;
+	padding: 5px;
+	width: 20%;
+	box-sizing: border-box;
+}
+
+.lang-nav {
+	& a {
+		display: inline-block;
+		padding: 7px ;
+		background: white;
+		color: #aaa;
+		border: 1px solid #d8d8d8;
+		text-decoration: none;
+	}
+	& .active {
+		background-color: #1f800f;
+		color: #fff;
+		border-color: #fff;
+	}
+}
+
+.search-main-nav-cnt {
+	float: left;
+	width: 60%;
+}
+
+.main-nav {
+	& a {
+		text-decoration: none;
+		color: #888;
+		font-size: 110%;
+		font-family: times;
+	}
+}
+
+.search-field-container {}
+
+.searvh-field {}
+
+.toolsbox {
+	float: left;
+	width: 20%;
+}
+
+.toolsbox {
+	& a {
+		text-decoration: none;
+		color: #888;
+		font-size: 115%;
+	}
+}
+
+.shopping-cart {
+	background: #ffb441;
+	border-bottom: 8px solid #FD9903;
+}
